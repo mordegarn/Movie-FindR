@@ -1,8 +1,8 @@
 import React from 'react';
-import styles from "./Home.module.scss"
+import "./Home.scss"
 const Home = () => {
     return (
-        <div className={styles.wrapper}>
+        <div className="home_wrapper">
             
 
         </div>
