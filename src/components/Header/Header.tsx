@@ -16,9 +16,6 @@ const Header = () => {
                 
               <NavLink className="navlink" to="/favourites">Favourites</NavLink>
             </li>
-            <li>
-              <NavLink className="navlink" to="/favourites">Favourites</NavLink>
-            </li>
           </ul>
         </nav>
       </div>

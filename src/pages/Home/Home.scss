@@ -1,4 +1,35 @@
-.home_wrapper{
+.home_wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.main {
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.main_top {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.search {
+  margin: 0 auto;
+  padding: 15px 200px;
+  outline: none;
+}
+
+.container_home{
+  max-width: 1500px;
+  margin: 0 auto;
+  width: 100%;
+}
+.main_cards{
+  max-width: 1500px;
     width: 100%;
     margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
 }
